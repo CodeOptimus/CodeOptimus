@@ -17,9 +17,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/CodeOptimus/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| API Security Assessment                       | <a href="https://docs.google.com/document/d/1xFqCXqpS9md2LqLJDplX4VCEnHVFuzxq/edit?usp=sharing&ouid=106861479395366330816&rtpof=true&sd=true"> Assessment Documentation</a>|
+| GRC- Digital Resilience Blueprint            | <a href="https://drive.google.com/drive/folders/19h4JDJhJR0w-UqU9-ejbVu_ykamgWAOu?usp=sharing"> Case Studies</a>|
+## | Security Automation with Shuffle SOAR         | SOC Automation Lab|
+## | Incident Response Planning and Execution      | SOC Automation Lab|
+## | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -42,7 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-Mastermind-blue" />
+    ## <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
