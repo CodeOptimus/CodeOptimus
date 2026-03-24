@@ -19,10 +19,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | API Security Assessment                       | <a href="https://docs.google.com/document/d/1xFqCXqpS9md2LqLJDplX4VCEnHVFuzxq/edit?usp=sharing&ouid=106861479395366330816&rtpof=true&sd=true"> Assessment Documentation</a>|
 | GRC- Digital Resilience Blueprint            | <a href="https://drive.google.com/drive/folders/19h4JDJhJR0w-UqU9-ejbVu_ykamgWAOu?usp=sharing"> Case Studies</a>|
-## | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-## | Incident Response Planning and Execution      | SOC Automation Lab|
-## | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+<!-- 
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+-->
 
 ## Tools
 
