@@ -3,12 +3,11 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I am a cybersecurity professional in the making, with a foundation in frontend development and a deliberate, focused transition into information security. I bring technical fluency, a structured approach to learning, and hands-on experience in GRC, API security, risk assessment, and network analysis. I believe in documenting everything, communicating clearly, and building security practices that are both rigorous and practical
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to build a career at the intersection of cybersecurity governance, risk, and technical security operations. Grounded in the NIST Cybersecurity Framework, ISO/IEC 27001, and the OCEG Red Book, and actively developing expertise in GRC, I am working toward roles in information security auditing, risk management, and compliance; where technical understanding and structured thinking drive real business impact. I am certified, curious, and committed to continuous growth in this field.
 
 ## Skills
 
